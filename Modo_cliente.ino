@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 
 const char* ssid = "ARRIS-2692";
-const char* password = "32352DC099DB705D";
+const char* password = "**********";
 
 const char* host = "www.instagram.com";
 
